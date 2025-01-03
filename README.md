@@ -1,8 +1,8 @@
 ## Hi there ?, I'm **HARIHARAN KUMAR**
 ![Typing
-Animation]https://readme-typing-svg.demolab.com/?lines=Web+Developer;Content+Creator;We
+Animation](https://readme-typing-svg.demolab.com/?lines=Web+Developer;Content+Creator;We
 b+Designer;Software+Developer&font=Fira%20Code&center=true&width=440&height=45&color=00b
-cd4&vCenter=true&size=22
+cd4&vCenter=true&size=22)
 Working at **RentInTbilisi**
 <img align="right"
 src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"
@@ -64,10 +64,10 @@ title="GitHub" />
 - **Editor:** Visual Studio Code
 - **Libraries & Frameworks:** Material UI, Ant Design, Tailwind, Prisma, npm
 - **Workspace Setup:**
-- Laptop: **Lenovo IdeaPad Slim 3**
-- Processor: **AMD Ryzen 5 4600U**
+- Laptop: **Dell Lattitude 5490**
+- Processor: **Intel I5**
 - Graphics: **Integrated Radeon Graphics**
-- RAM: **8GB**
+- RAM: **16GB**
 ---
 ### ? GitHub Stats
 <p align="center">
