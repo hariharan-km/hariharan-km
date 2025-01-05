@@ -8,7 +8,7 @@ Animation](https://readme-typing-svg.demolab.com/?lines=Web+Developer;Full+Stack
 ### 💻**Web Development Lead @ GeeksForGeeks '2024**
 
 
-- 🔭 Here's my portfolio
+- 🔭 Here's my [Portfolio](https://hariharankumar-web.netlify.app/)
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to start a Business
 - 😄 Pronouns: Techie
