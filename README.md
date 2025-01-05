@@ -81,12 +81,15 @@ lor=white" alt="YouTube" />
 <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/>
-</p>
-- **Workspace Setup:**
- 1. Laptop: **Dell Lattitude 5490**
- 2. Processor: **Intel I5**
- 3. Graphics: **Integrated Radeon Graphics**
- 4. RAM: **16GB**
+
+- **Workspace Setup:**<br>
+   1. Laptop: **Dell Lattitude 5490** <br>
+   2. Processor: **Intel I5** <br>
+   3. Graphics: **Integrated Radeon Graphics** <br>
+   4. RAM: **16GB** <br>
+   </p>
+ 
+ ---
  
 ### 📫 Platform I Use
 <p align="left">
@@ -115,22 +118,28 @@ src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo
 <img
 src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=GeeksForGeeks&logoColor=black" />
 </a>
+</p>
 
+---
+### 📈 LeetCode Stats
+<p align="center">
+<img
+src="https://leetcard.jacoblin.cool/HariCoder2111?theme=dark&font=Nanum%20Gothic%20Coding&ext=contest" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-<img
-src="https://github-readme-stats.vercel.app/api?username=hariharan-km&show_icons=true&theme=radical" alt="Hariii's GitHub stats" />
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan-km&layout=compact&theme=radical" alt="Top Languages" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=hariharan-km&theme=blue-green" alt="Hariii's GitHub stats" />
+<img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan-km&theme=blue-green"  alt="Top Languages" />
 </p>
+
 ---
 
-### ? Activity Graph
-[![Hariii's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hariharan-km)](https://github.com/hariharan-km/github-readme-activity-graph)
+### 🌟 Activity Graph
+[![Harii's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hariharan-km&bg_color=000000&color=ffffff&line=6ef764&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
-? *"Striving to make the web a better place, one project at a time!"*
+
+💡 *"Striving to make the web a better place, one project at a time!"*
