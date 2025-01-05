@@ -80,11 +80,11 @@ lor=white" alt="YouTube" />
 
 ### 🛠️ Tools I Use
 <p align="left">
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="android-studio--v2"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="android-studio--v2"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/>
 
 - **Workspace Setup:**<br>
    1. Laptop: **Dell Lattitude 5490** <br>
