@@ -26,20 +26,24 @@ Animation](https://readme-typing-svg.demolab.com/?lines=Web+Developer;Full+Stack
 
 ### 🌐 Connect with Me
 <p align="left">
+  
 <!-- LinkdIn -->
-<a href="https://www.linkedin.com/in/hariharankm/" target="_blank">
+<a href="https://www.linkedin.com/in/hariharankm/" target="LinkdIn">
 <img
 src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+
   <!-- Gmail -->
-<a href="https://www.linkedin.com/in/hariharankm/" target="_blank">
+<a href="hariharank6676@gmail.com" target="Gmail">
 <img
 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-  <!-- LinkdIn -->
-<a href="https://www.instagram.com/aesthetic_boy_hariiii/" target="_blank">
+
+  <!-- Instagram -->
+<a href="https://www.instagram.com/aesthetic_boy_hariiii/" target="Instagram">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
+
 <!-- <a href="https://www.youtube.com/@codebyabi" target="_blank">
 <img
 src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoCo
@@ -93,38 +97,43 @@ lor=white" alt="YouTube" />
  
 ### 📫 Platform I Use
 <p align="left">
-<!--   LeetCode -->
-<a href="https://www.linkedin.com/in/hariharankm/" target="_blank">
-<img
-src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  
+<!-- LeetCode -->
+<a href="https://leetcode.com/u/HariCoder2111/" target="LeetCode">
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
-  <!--   HackerRank -->
-<a href="https://www.linkedin.com/in/hariharankm/" target="_blank">
-<img
-src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+
+  <!-- HackerRank -->
+<a href="https://www.hackerrank.com/profile/kumarhariharan_1" target="HackerRank">
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
-  <!--   HackerEarth -->
-<a href="https://www.linkedin.com/in/hariharankm/" target="_blank">
-<img
-src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />
+  
+  <!-- HackerEarth -->
+<a href="https://www.hackerearth.com/@kumarhariharan.k007" target="HackerEarth">
+<img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />
 </a>
-  <!--   StackOverFlow -->
-<a href="https://www.linkedin.com/in/hariharankm/" target="_blank">
-<img
-src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  
+  <!-- StackOverFlow -->
+<a href="" target="StackOverFlow">
+<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
-  <!--   GeeksForGeeks -->
-<a href="https://www.linkedin.com/in/hariharankm/" target="_blank">
-<img
-src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=GeeksForGeeks&logoColor=black" />
+  
+  <!-- CodeChef -->
+<!--<a href="https://www.codechef.com/users/hariharankm" target="CodeChef">
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=GeeksForGeeks&logoColor=black" />
 </a>
+
+    <!-- GeeksForGeeks -->
+<!--<a href="" target="GeeksForGeeks">
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=GeeksForGeeks&logoColor=black" />
+</a>-->
+
 </p>
 
 ---
 ### 📈 LeetCode Stats
 <p align="center">
-<img
-src="https://leetcard.jacoblin.cool/HariCoder2111?theme=dark&font=Nanum%20Gothic%20Coding&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/HariCoder2111?theme=dark&font=Nanum%20Gothic%20Coding&ext=contest" />
 </p>
 
 ---
