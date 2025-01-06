@@ -1,18 +1,17 @@
 # Hi there 👋🏻, I'm **HARIHARAN KUMAR**
 
 ![Typing
-Animation](https://readme-typing-svg.demolab.com/?lines=Web+Developer;Full+Stack+Developer;Web+Designer;Software+Developer&font=Fira%20Code&center=true&width=440&height=45&color=00bcd4&vCenter=true&size=22)
+Animation](https://readme-typing-svg.demolab.com/?lines=Entrepreneur;Software+Developer;Full+Stack+Developer;Web+Developer+Designer&font=Fira%20Code&center=true&width=440&height=45&color=00bcd4&vCenter=true&size=22)
 <img align="right" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding Gif" width="350" height="300" />
 
-### 💻Working at **CubeAi Solutions** @ Full Stack Developer
-### 💻**Web Development Lead @ GeeksForGeeks '2024**
+### 💻Working at `CubeAi Solutions @ Full Stack Developer`
+### 💻`Web Development Lead @ GeeksForGeeks '2024`
 
 
 - 🔭 Here's my [Portfolio](https://hariharankumar-web.netlify.app/)
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to start a Business
 - 😄 Pronouns: Techie
-- 💬 Ask me about Tech
 - Passionate about **Software Development & Cyber Security**
 - Skilled at creating robust, scalable applications
 - Constantly exploring cutting-edge technologies
