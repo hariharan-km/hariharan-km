@@ -143,15 +143,24 @@ lor=white" alt="YouTube" />
 <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan-km&theme=blue-green"  alt="Top Languages" />
 </p>
 
+
 ---
 
+<!-- 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GVishnudhasan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=GVishnudhasan&icon=0&color=0)](https://visitcount.itsvg.in)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GVishnudhasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GVishnudhasan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GVishnudhasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
-<!-- Proudly created with [Hariharan Kumar](https://hariharankumar-web.netlify.app/) -->
+---  -->
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hariharan-km&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
 
 ### 🌟 Activity Graph
 [![Harii's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hariharan-km&bg_color=000000&color=ffffff&line=6ef764&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -164,3 +173,5 @@ lor=white" alt="YouTube" />
 ---
 
 💡 *"Striving to make the web a better place, one project at a time!"*
+
+<!-- Proudly created with [Hariharan Kumar](https://hariharankumar-web.netlify.app/) -->
