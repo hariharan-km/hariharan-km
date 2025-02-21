@@ -145,8 +145,21 @@ lor=white" alt="YouTube" />
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=GVishnudhasan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=GVishnudhasan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with [Hariharan Kumar](https://hariharankumar-web.netlify.app/) -->
+
 ### 🌟 Activity Graph
 [![Harii's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hariharan-km&bg_color=000000&color=ffffff&line=6ef764&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
