@@ -132,7 +132,7 @@ lor=white" alt="YouTube" />
 ---
 ### 📈 LeetCode Stats
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/HariCoder2111?theme=dark&font=Nanum%20Gothic%20Coding&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/HariCoder7?theme=dark&font=Nanum%20Gothic%20Coding&ext=contest" />
 </p>
 
 ---
