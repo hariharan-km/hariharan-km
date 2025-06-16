@@ -86,10 +86,10 @@ lor=white" alt="YouTube" />
 <img width="50" height="50" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/>
 
 - **Workspace Setup:**<br>
-   1. Laptop: **Dell Lattitude 5490** <br>
-   2. Processor: **Intel I5** <br>
-   3. Graphics: **Integrated Radeon Graphics** <br>
-   4. RAM: **16GB** <br>
+   ⭐ Laptop: **Dell Lattitude 5490** <br>
+   ⭐ Processor: **Intel I5** <br>
+   ⭐ Graphics: **Integrated Radeon Graphics** <br>
+   ⭐ RAM: **16GB** <br>
    </p>
  
  ---
