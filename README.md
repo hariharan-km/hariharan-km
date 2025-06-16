@@ -8,7 +8,7 @@ Animation](https://readme-typing-svg.demolab.com/?lines=Entrepreneur;Software+De
 ### 💻`Web Development Lead @ GeeksForGeeks '2024`
 
 
-- 🔭 Here's my [Portfolio](https://hariharankumar-web.netlify.app/)
+- 🔭 Here's my [Portfolio](https://hariportfolio-updated.vercel.app/)
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to start a Business
 - 😄 Pronouns: Techie
