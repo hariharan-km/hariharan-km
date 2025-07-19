@@ -1,7 +1,7 @@
 # Hi there 👋🏻, I'm **HARIHARAN KUMAR**
 
 ![Typing
-Animation](https://readme-typing-svg.demolab.com/?lines=Entrepreneur;Software+Developer;Full+Stack+Developer;Web+Developer+Designer&font=Fira%20Code&center=true&width=440&height=45&color=00bcd4&vCenter=true&size=22)
+Animation](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Open+Source+Contributor;Software+Developer;Entrepreneur;&font=Fira%20Code&center=true&width=440&height=45&color=00bcd4&vCenter=true&size=22)
 <img align="right" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding Gif" width="350" height="300" />
 
 ### 💻Working at `CubeAi Solutions @ Full Stack Developer`
