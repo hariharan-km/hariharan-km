@@ -1,53 +1,66 @@
-# Hi there 👋🏻, I'm **HARIHARAN KUMAR**
+<div align="center">
 
-![Typing
-Animation](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Open+Source+Contributor;Software+Developer;Entrepreneur;&font=Fira%20Code&center=true&width=440&height=45&color=00bcd4&vCenter=true&size=22)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8B0000,100:0d1117&height=200&section=header&text=HARIHARAN+KUMAR&fontSize=80&fontColor=FF3131&fontAlignY=38&desc=Founder%20%7C%20BugCab%20Technologies&descSize=22&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=29ABE2&center=true&vCenter=true&width=600&lines=Offensive+Security+%26+VAPT;Full+Stack+Developer;Open+Source+Contributor;Software+Developer;Entrepreneur;AI-Powered+Security+Systems;SaaS+%26+LLM+Penetration+Testing;Cybersecurity+Automation+at+Scale" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  
 <img align="right" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding Gif" width="350" height="300" />
 
 ### 💻Working at `CubeAi Solutions @ Full Stack Developer`
 ### 💻`Web Development Lead @ GeeksForGeeks '2024`
 
 
-- 🔭 Here's my [Portfolio](https://www.haricoder.dev/)
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to start a Business
-- 😄 Pronouns: Techie
-- Passionate about **Software Development & Cyber Security**
-- Skilled at creating robust, scalable applications
-- Constantly exploring cutting-edge technologies
+### 💻 Working at `CubeAi Solutions` @ Full Stack Developer
+
+### 💻 Founder & CEO @ `BugCab Technologies`
+
+- 🔭 Here's my Portfolio: **https://www.haricoder.dev/**
+- 🌱 Currently learning **DSA, System Design & Advanced Backend Development**
+- 🚀 Building **AI-Powered Cybersecurity Solutions**
+- 👯 Looking to collaborate on **Open Source & Security Projects**
+- 😎 Pronouns: **Techie**
+- 🔐 Passionate about **Cyber Security, VAPT & Software Development**
+- ⚡ Skilled at creating robust, scalable applications
+- 💡 Constantly exploring cutting-edge technologies
 
 ---
-### 👨‍💻 About Me
-- 🌱 Currently Learning: Advanced Web Development and Next.js
-- 👯 Collaboration Goals: Building innovative and impactful projects
-- 💬 Ask Me About: Web Development, Full-Stack Development, and Dev Tools
-- ⚡ Fun Fact: I love experimenting with frameworks and designing workflows
 
-### 🌐 Connect with Me
+## 🧑‍💻 About Me
+
+- 🌱 Currently Learning: **Advanced Web Development, Next.js & Cloud Computing**
+- 🤝 Collaboration Goals: **Building innovative SaaS and Security Products**
+- 💬 Ask Me About: **Web Development, Cyber Security, VAPT, Full-Stack Development**
+- 🚀 Future Goal: **Building a Global Cybersecurity Company**
+- ⚡ Fun Fact: **I enjoy breaking and securing systems to learn how they work**
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-  
-<!-- LinkdIn -->
-<a href="https://www.linkedin.com/in/hariharankm/" target="LinkdIn">
-<img
-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+<a href="https://www.linkedin.com/in/hariharankm/" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-  <!-- Gmail -->
-<a href="hariharank6676@gmail.com" target="Gmail">
-<img
-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:hariharank6676@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-  <!-- Instagram -->
-<a href="https://www.instagram.com/aesthetic_boy_hariiii/" target="Instagram">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+<a href="https://www.instagram.com/aesthetic_boy_hariiii/" target="_blank">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<!-- <a href="https://www.youtube.com/@codebyabi" target="_blank">
-<img
-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoCo
-lor=white" alt="YouTube" /> 
-</a>-->
 </p>
 
 ---
