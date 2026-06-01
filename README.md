@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8B0000,100:0d1117&height=200&section=header&text=HARIHARAN+KUMAR&fontSize=80&fontColor=FF3131&fontAlignY=38&desc=Founder%20%7C%20BugCab%20Technologies&descSize=22&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8B0000,100:0d1117&height=200&section=header&text=HARIHARAN+KUMAR&fontSize=80&fontColor=FF3131&fontAlignY=38&desc=Founder+%26+CEO%20%7C%20BugCab%20Technologies&descSize=22&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
 
