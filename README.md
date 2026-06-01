@@ -12,17 +12,13 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
   
 <img align="right" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding Gif" width="350" height="300" />
 
-### 💻Working at `CubeAi Solutions @ Full Stack Developer`
-### 💻`Web Development Lead @ GeeksForGeeks '2024`
-
-
-### 💻 Working at `CubeAi Solutions` @ Full Stack Developer
-
 ### 💻 Founder & CEO @ `BugCab Technologies`
+
+### 💻`Web Development Lead @ GeeksForGeeks '2024`
 
 - 🔭 Here's my Portfolio: **https://www.haricoder.dev/**
 - 🌱 Currently learning **DSA, System Design & Advanced Backend Development**
@@ -47,7 +43,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/hariharankm/" target="_blank">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -65,28 +61,50 @@
 
 ---
 
-### 🚀  Skills
-#### **Languages & Frameworks**
-<p align="left">
-<img width="50" height="50" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" />
-<img width="50" height="50" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" />
-<img width="50" height="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" />
-<img width="50" height="50" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" />
-<img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js" title="Express.js" />
-<img width="50" height="50" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
-<!-- <img width="50" height="50" src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" title="Next.js" />-->
-<img width="50" height="50" src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub" /> 
-<img width="50" height="50" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/google-firebase-console.png" alt="google-firebase-console"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
-</p>
+## 🚀 Skills
+
+### 🔐 Cyber Security & DevOps
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🤖 AI & Automation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🌐 Full Stack Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ☁️ Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### 💾 Databases & Languages
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
@@ -151,11 +169,25 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hariharan-km&theme=blue-green" alt="Hariii's GitHub stats" />
-<img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan-km&theme=blue-green"  alt="Top Languages" />
-</p>
 
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hariharan-km&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hariharan-km&theme=tokyonight" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=hariharan-km&theme=tokyonight&hide_border=true&background=0d1117&ring=FF3131&fire=FF3131&currStreakLabel=FF3131" width="60%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hariharan-km&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+
+</div>
 
 ---
 
@@ -168,15 +200,29 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GVishnudhasan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GVishnudhasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
----  -->
+---  
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hariharan-km&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
+---  -->
 
-### 🌟 Activity Graph
-[![Harii's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hariharan-km&bg_color=000000&color=ffffff&line=6ef764&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 📈 Contribution Graph
+## 
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hariharan-km&bg_color=0d1117&color=FF3131&line=FF3131&point=ffffff&area=true&area_color=FF3131&hide_border=true" width="100%"/>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/hariharan-km/hariharan-km/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
 
 ---
 
