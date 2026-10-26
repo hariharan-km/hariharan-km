@@ -122,6 +122,8 @@
    ⭐ Graphics: **Integrated Radeon Graphics** <br>
    ⭐ RAM: **16GB** <br>
    </p>
+
+   POCTF:LYNNIPHP
  
  ---
  
